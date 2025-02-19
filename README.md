@@ -12,12 +12,12 @@ This project focuses on collecting, processing, and analyzing YouTube video data
 6. Reporting & Insights – Build dashboards to visualize trends and patterns.
 
 ## Technologies & Services Used
-Amazon S3 – Secure and scalable object storage.
-AWS IAM – Manage secure access to AWS resources.
-Amazon QuickSight – BI tool for interactive dashboards.
-AWS Glue – Serverless ETL for data transformation.
-AWS Lambda – Serverless computing for automated workflows.
-AWS Athena – SQL-based querying directly on S3 data.
+1. Amazon S3 – Secure and scalable object storage.
+2. AWS IAM – Manage secure access to AWS resources.
+3. Amazon QuickSight – BI tool for interactive dashboards.
+4. AWS Glue – Serverless ETL for data transformation.
+5. AWS Lambda – Serverless computing for automated workflows.
+6. AWS Athena – SQL-based querying directly on S3 data.
 
 ## Dataset
 The dataset comes from Kaggle, containing daily statistics on trending YouTube videos across multiple regions. It includes details such as video titles, channels, views, likes, tags, comments, and more.
